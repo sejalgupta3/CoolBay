@@ -9,7 +9,8 @@ Its a Cross Domain Enterprise Online Market Place.
  * Facebook Plugins for share, like and comment functionality
 
 ##Architecture Diagram
-
+ ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+ 
 ##Functionality Overview
  * User Registration
  * User Login for Market Place
