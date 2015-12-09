@@ -2,7 +2,7 @@
 Its a Cross Domain Enterprise Online Market Place.
 
 ##Technologies Used
-*Front End: HTML, CSS, JQuery and Bootstrap
+ * Front End: HTML, CSS, JQuery and Bootstrap
 *Backend: PHP and MYSQL
 *JQuery Plugin : Flickity for sliders (http://flickity.metafizzy.co/) 
 *Icons : Font Awesome (https://fortawesome.github.io/Font-Awesome/ )
